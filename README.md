@@ -4,5 +4,5 @@ This repository contains examples of working with the Splunk Sandbox, writing an
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Splunk Sandbox]()  | A step-by-step guide to setting up a Splunk Enterprise Sandbox with Docker Desktop. | Docker, Terminal, SE
-[Splunk SPL]()  | Explore and analyze raw data using Splunk SPL queries. | SPL, Saved Searches/Reports/ Macros, Lookups
+[Splunk Sandbox]()  | A step-by-step guide to setting up a Splunk Enterprise Sandbox with Docker Desktop. | Docker, Terminal, Splunk Enterprise
+[Splunk SPL]()  | Explore and analyze raw data using Splunk SPL queries. | SPL, Saved Searches/Reports, Macros, Lookups
